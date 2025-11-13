@@ -52,8 +52,3 @@ streamlit run frontend.py
 
 Then follow the steps in the UI: Upload -> Preview -> Save -> Chunk+Index -> Ask.
 
-## Notes
-
-- Order of operations follows the 6th implementation: chunking settings and Chroma/LLM usage retained.
-- For images or binary files, we store raw bytes and index a placeholder chunk describing the file.
-- The CLI chat `main.py` remains available and unchanged.
