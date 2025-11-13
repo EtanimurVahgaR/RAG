@@ -1,0 +1,14 @@
+streamlit
+PyPDF2
+python-docx
+pdfplumber
+PyMuPDF
+pymongo
+gridfs
+python-dotenv
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+langchain-core
+langchain-mongodb
+huggingface_hub
