@@ -11,3 +11,4 @@ langchain-huggingface>=0.0.18
 langchain-core>=0.0.112
 langchain-mongodb>=0.0.11
 huggingface_hub>=0.13.4
+sentence-transformers
