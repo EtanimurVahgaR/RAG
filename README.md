@@ -48,7 +48,7 @@ cd RAG
 pip install -r requirements.txt
 ```
 
-2. **Update environment variables as per** [Environment Variables](#️-environment)
+2. **Update environment variables as per**[Environment Variables](#environment)
 
 3. **Start the backend:**
 
